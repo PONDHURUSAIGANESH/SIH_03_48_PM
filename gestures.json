@@ -1,0 +1,42 @@
+{
+    "labels": [
+        "None",
+        "esc",
+        "alt+tab",
+        "j",
+        "f",
+        "winleft+ctrl+o",
+        "k",
+        "l",
+        "space",
+        "ctrl+alt+delete",
+        "enter",
+        "restart",
+        "volumeup",
+        "volumedown",
+        "ctrl+c",
+        "ctrl+v",
+        "left",
+        "volumemute"
+    ],
+    "freq": [
+        2,
+        12,
+        13,
+        2,
+        12,
+        5,
+        2,
+        2,
+        6,
+        6,
+        10,
+        3,
+        3,
+        3,
+        3,
+        1,
+        4,
+        2
+    ]
+}
